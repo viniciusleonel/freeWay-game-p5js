@@ -5,8 +5,8 @@ let f;
 
 function drawBotao(){
     gui = createGui();
-    b = createButton("Up", 100, 740, 200, 50);
-    c = createButton("Down", 700, 740, 200, 50);
+    b = createButton("Up (W)", 100, 740, 200, 50);
+    c = createButton("Down (S)", 700, 740, 200, 50);
 //     f = createButton("FullScreen", 700, 10, 200, 50);
 }
 
